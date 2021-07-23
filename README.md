@@ -1,16 +1,30 @@
-### Hi there 👋
+# Hey, I'm VINAYAK  👋
+## ⚡ Machine Learning Enthusiast ⚡
 
-<!--
-**Vinayakdata/Vinayakdata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Who am I ? 
+I am VINAYAK SINGH. I am a pre-final year undergraduate at KIIT Deemed to be University. I am having experience of publishing many research papers at various International Conferences and Journals. I am Data Science Research Intern at Cluzters.ai, and I'm also working with ML/AI team of GFGKIIT. I am having deep knowledge of Machine Learning, Deep Learning, Data Analytics, Tableau and many more.
 
-Here are some ideas to get you started:
+### 🔭 I’m currently working on 
+- Detection of Leukemia Cancer by using  K-Fold Cross Validation via Hybrid CNNs
+- Detection of Weeds in Soybean Crops based on Transfer Learning and MOFV
+- Parkinson's Disease Classification by implementing various ML algos with PCA on different Voice Attributes
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 I’m currently learning
+- Big Data
+- Advance Data Analytics
+- Reinforcement Learning & GANs
+- R & Tableau
+
+### 👯 I’m looking to collaborate on
+- Research projects on Real World Applications
+- Analysis of various datasets by using advance visualization techniques
+- For creation of new ImageNet Model
+- Advance and efficient projects on Computer Vision
+- 
+### 💬 Ask me about
+- Research Papers / Works
+- Machine Learning, Deep Learning
+- Analysis and Selection of various use cases under ML/AI domain
+
+### 📫 How to reach me:
+ Linkedin -
