@@ -42,7 +42,11 @@ I am VINAYAK SINGH. I am a pre-final year undergraduate at KIIT Deemed to be Uni
 - Machine Learning, Deep Learning
 - Analysis and Selection of various use cases under ML/AI domain
 
-[![Vinayak's GitHub stats](https://github-readme-stats.vercel.app/api?username=vinayakdata)](https://github.com/anuraghazra/github-readme-stats)
+
+![Vinayak's GitHub stats](https://github-readme-stats.vercel.app/api?username=vinayakdata&show_icons=true&theme=radical)
+
+[![Vinayak's Language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=vinayakdata&layout=compact)](https://github.com/vinayakdata/github-readme-stats)
+
 
  
 
