@@ -20,11 +20,10 @@ I am VINAYAK SINGH. I am a pre-final year undergraduate at KIIT Deemed to be Uni
 - Analysis of various datasets by using advance visualization techniques
 - For creation of new ImageNet Model
 - Advance and efficient projects on Computer Vision
-- 
+
 ### 💬 Ask me about
 - Research Papers / Works
 - Machine Learning, Deep Learning
 - Analysis and Selection of various use cases under ML/AI domain
 
-### 📫 How to reach me:
- Linkedin -
+
