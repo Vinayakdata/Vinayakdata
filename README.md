@@ -14,6 +14,22 @@ I am VINAYAK SINGH. I am a pre-final year undergraduate at KIIT Deemed to be Uni
 - Advance Data Analytics
 - Reinforcement Learning & GANs
 - R & Tableau
+### 🌱 Languages and Tools:
+
+#### Programming Languages
+- C++, Python, and R 
+
+#### Version Control System
+- Git, GitHub
+
+#### ML Framework
+- Tensorflow, Keras, AzureML, Scikit-learn, PyTorch (learning)
+
+#### DataBase
+- MongoDB & MySQL
+
+#### BI tools
+- Tableau & PowerBI
 
 ### 👯 I’m looking to collaborate on
 - Research projects on Real World Applications
@@ -26,4 +42,6 @@ I am VINAYAK SINGH. I am a pre-final year undergraduate at KIIT Deemed to be Uni
 - Machine Learning, Deep Learning
 - Analysis and Selection of various use cases under ML/AI domain
 
+
+ 
 
