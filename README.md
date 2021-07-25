@@ -48,5 +48,36 @@ I am VINAYAK SINGH. I am a pre-final year undergraduate at KIIT Deemed to be Uni
 [![Vinayak's Language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=vinayakdata&layout=compact)](https://github.com/vinayakdata/github-readme-stats)
 
 
+<!-- [![instagram]<img alt="Instagram" src="https://img.shields.io/badge/<handle>-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>]
+[![gmail]<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />]
+ -->
+
+### Connect with me:
+
+
+
+[<img align="left" alt="sancharika | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="sancharika | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="sancharika | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+
+<br />
+
+
+
+<br />
+<br />
+
+---
+
+</details>
+
+
+
+[instagram]: https://www.instagram.com/mr.vinayakk/
+[gmail]: vinayaksooryavanshi@gmail.com
+[twitter]: https://twitter.com/Vinayak26673504
+[linkedin]: https://www.linkedin.com/in/vinayak-singh-21455a166/
+
+
  
 
