@@ -2,12 +2,11 @@
 ## ⚡ Machine Learning Enthusiast ⚡
 
 ### Who am I ? 
-I am VINAYAK SINGH. I am a pre-final year undergraduate at KIIT Deemed to be University. I am having experience of publishing many research papers at various International Conferences and Journals. I am Data Science Research Intern at Cluzters.ai, and I'm also working with ML/AI team of GFGKIIT. I am having deep knowledge of Machine Learning, Deep Learning, Data Analytics, Tableau and many more.
+I am VINAYAK SINGH. I am a pre-final year undergraduate at KIIT Deemed to be University. I am having experience of publishing many research papers at various International Conferences and Journals. I am former Data Science Research Intern at Cluzters.ai and Glosity.club, and I'm also working with ML/AI team of GFGKIIT. I am having deep knowledge of Machine Learning, Deep Learning, Data Analytics, Tableau and many more.
 
 ### 🔭 I’m currently working on 
-- Detection of Leukemia Cancer by using  K-Fold Cross Validation via Hybrid CNNs
-- Detection of Weeds in Soybean Crops based on Transfer Learning and MOFV
-- Parkinson's Disease Classification by implementing various ML algos with PCA on different Voice Attributes
+- Classification and Segmentation of Pneumothorax by using  K-Fold Cross Validation via CNNs and autoencoders.
+- Recommender System.
 
 ### 🌱 I’m currently learning
 - Big Data
