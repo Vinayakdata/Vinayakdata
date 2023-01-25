@@ -2,24 +2,22 @@
 ## ⚡ Machine Learning Enthusiast ⚡
 
 ### Who am I ? 
-I am VINAYAK SINGH. I am a pre-final year undergraduate at KIIT Deemed to be University. I am having experience of publishing many research papers at various International Conferences and Journals. I am former Data Science Research Intern at Cluzters.ai and Glosity.club, and I'm also working with ML/AI team of GFGKIIT. I am having deep knowledge of Machine Learning, Deep Learning, Data Analytics, Tableau and many more.
+I am VINAYAK SINGH. I am a final year undergraduate at KIIT Deemed to be University. Currently working as SDE Intern at GE Healthcare in the domain of data pipelines by using the power of Kafka and Flink. Previously, I have completed my internship at various tech firms such as Siemens, Glosty.club and CLuzters.ai in the domain of Data Science. IN terms of research I have published 15+ research articles in various international conferences and SCI journals. I am having deep knowledge of Machine Learning, Deep Learning, Data Analytics, Tableau and many more.
 
 ### 🔭 I’m currently working on 
-- Classification and Segmentation of Pneumothorax by using  K-Fold Cross Validation via CNNs and autoencoders.
-- Recommender System.
+- Data Pipeline for storing and accessing of the data by using Kafka and Flink
 
 ### 🌱 I’m currently learning
-- Big Data
-- Advance Data Analytics
-- Reinforcement Learning & GANs
-- R & Tableau
+- Kafka
+- Flink
+- GANs and Reinforcement Learning
 ### 🌱 Languages and Tools:
 
 #### Programming Languages
-- C++, Python, and R 
+- Java, Python, and R 
 
 #### Version Control System
-- Git, GitHub
+- Git, Gitlab
 
 #### ML Framework
 - Tensorflow, Keras, AzureML, Scikit-learn, PyTorch (learning)
@@ -38,7 +36,7 @@ I am VINAYAK SINGH. I am a pre-final year undergraduate at KIIT Deemed to be Uni
 
 ### 💬 Ask me about
 - Research Papers / Works
-- Machine Learning, Deep Learning
+- Machine Learning, Deep Learning, Data pipelines
 - Analysis and Selection of various use cases under ML/AI domain
 
 
