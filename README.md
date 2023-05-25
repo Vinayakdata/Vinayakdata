@@ -42,9 +42,6 @@ I am VINAYAK SINGH. I am a final year undergraduate at KIIT Deemed to be Univers
 - Analysis and Selection of various use cases under ML/AI domain
 
 
-![Vinayak's GitHub stats](https://github-readme-stats.vercel.app/api?username=vinayakdata&show_icons=true&theme=radical)
-
-[![Vinayak's Language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=vinayakdata&layout=compact)](https://github.com/vinayakdata/github-readme-stats)
 
 
 <!-- [![instagram]<img alt="Instagram" src="https://img.shields.io/badge/<handle>-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>]
