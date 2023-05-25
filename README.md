@@ -2,15 +2,17 @@
 ## ⚡ Machine Learning Enthusiast ⚡
 
 ### Who am I ? 
-I am VINAYAK SINGH. I am a final year undergraduate at KIIT Deemed to be University. Currently working as SDE Intern at GE Healthcare in the domain of data pipelines by using the power of Kafka and Flink. Previously, I have completed my internship at various tech firms such as Siemens, Glosty.club and CLuzters.ai in the domain of Data Science. IN terms of research I have published 15+ research articles in various international conferences and SCI journals. I am having deep knowledge of Machine Learning, Deep Learning, Data Analytics, Tableau and many more.
+I am VINAYAK SINGH. I am a final year undergraduate at KIIT Deemed to be University. Currently working as SDE Intern at GE Healthcare in the domain of data pipelines by using the power of Kafka, Flink Prometheus, Grafana, Helm, Docker and Kubernetes. Previously, I have completed my internship at various tech firms such as Siemens, Glosty.club and CLuzters.ai in the domain of Data Science. IN terms of research I have published 15+ research articles in various international conferences and SCI journals with 50+ citations. I am having deep knowledge of Machine Learning, Deep Learning, Data Analytics, Tableau and many more.
 
 ### 🔭 I’m currently working on 
-- Data Pipeline for storing and accessing of the data by using Kafka and Flink
+- Data Pipeline for storing and accessing of the data by using Kafka and Flink.
+- How to deploy data streaming pipelines
+- How to monitor the metrics of streaming on cloud
 
 ### 🌱 I’m currently learning
 - Kafka
 - Flink
-- GANs and Reinforcement Learning
+- Docker & K8s
 ### 🌱 Languages and Tools:
 
 #### Programming Languages
@@ -23,7 +25,7 @@ I am VINAYAK SINGH. I am a final year undergraduate at KIIT Deemed to be Univers
 - Tensorflow, Keras, AzureML, Scikit-learn, PyTorch (learning)
 
 #### DataBase
-- MongoDB & MySQL
+- MongoDB, PostgreSQL & MySQL
 
 #### BI tools
 - Tableau & PowerBI
