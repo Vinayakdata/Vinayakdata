@@ -1,79 +1,92 @@
-# Hey, I'm VINAYAK  👋
-## ⚡ Machine Learning Enthusiast ⚡
-
-### Who am I ? 
-I am VINAYAK SINGH. I am a final year undergraduate at KIIT Deemed to be University. Currently working as SDE Intern at GE Healthcare in the domain of data pipelines by using the power of Kafka, Flink Prometheus, Grafana, Helm, Docker and Kubernetes. Previously, I have completed my internship at various tech firms such as Siemens, Glosty.club and CLuzters.ai in the domain of Data Science. IN terms of research I have published 15+ research articles in various international conferences and SCI journals with 50+ citations. I am having deep knowledge of Machine Learning, Deep Learning, Data Analytics, Tableau and many more.
-
-### 🔭 I’m currently working on 
-- Data Pipeline for storing and accessing of the data by using Kafka and Flink.
-- How to deploy data streaming pipelines
-- How to monitor the metrics of streaming on cloud
-
-### 🌱 I’m currently learning
-- Kafka
-- Flink
-- Docker & K8s
-### 🌱 Languages and Tools:
-
-#### Programming Languages
-- Java, Python, and R 
-
-#### Version Control System
-- Git, Gitlab
-
-#### ML Framework
-- Tensorflow, Keras, AzureML, Scikit-learn, PyTorch (learning)
-
-#### DataBase
-- MongoDB, PostgreSQL & MySQL
-
-#### BI tools
-- Tableau & PowerBI
-
-### 👯 I’m looking to collaborate on
-- Research projects on Real World Applications
-- Analysis of various datasets by using advance visualization techniques
-- For creation of new ImageNet Model
-- Advance and efficient projects on Computer Vision
-
-### 💬 Ask me about
-- Research Papers / Works
-- Machine Learning, Deep Learning, Data pipelines
-- Analysis and Selection of various use cases under ML/AI domain
-
-
-
-
-<!-- [![instagram]<img alt="Instagram" src="https://img.shields.io/badge/<handle>-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>]
-[![gmail]<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />]
- -->
-
-### Connect with me:
-
-
-
-[<img align="left" alt="Vinayak | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Vinayak| Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="VInayak | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-
-<br />
-
-
-
-<br />
-<br />
+# Vinayak Singh
+### AI Systems Engineer | Research-Driven ML Architect | Scalable Intelligence Builder
 
 ---
 
-</details>
+<p align="center">
+  <a href="https://scholar.google.com/citations?hl=en&user=OuvUel8AAAAJ">
+    <img src="https://img.shields.io/badge/Google%20Scholar-Research-blue?style=for-the-badge&logo=googlescholar" />
+  </a>
+  <a href="https://www.linkedin.com/in/vinayak660/">
+    <img src="https://img.shields.io/badge/LinkedIn-Vinayak%20Singh-0A66C2?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://x.com/Vinayak26673504">
+    <img src="https://img.shields.io/badge/X-Tech%20Thoughts-black?style=for-the-badge&logo=x" />
+  </a>
+  <a href="https://drive.google.com/file/d/1PoBoPLNFqNhjBb2ygkoSm_PgYs2YJTEA/view?usp=sharing">
+    <img src="https://img.shields.io/badge/Resume-Download%20CV-2ea44f?style=for-the-badge&logo=googledrive" />
+  </a>
+</p>
+
+---
+
+## ⚡ Executive Snapshot
+
+- 🧠 30+ Peer-Reviewed Research Publications  
+- ⚙️ AI + Distributed Systems Specialist  
+- 🏗 Builder of Production-Grade ML & Real-Time Architectures  
+
+I design intelligent systems that scale under real-world constraints.  
+Not just models — but measurable, deployable impact.
+
+---
+
+<!-- SCHOLAR-METRICS-START -->
+## 🏆 Research Runboard
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Citations-Updating...-2ea44f?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/H--Index-Updating...-0A66C2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/i10--Index-Updating...-6f42c1?style=for-the-badge" />
+</p>
+<!-- SCHOLAR-METRICS-END -->
+
+---
 
 
+## 🧠 Core Focus
 
-[instagram]: https://www.instagram.com/mr.vinayakk/
-[gmail]: vinayaksooryavanshi@gmail.com
-[twitter]: https://twitter.com/Vinayak26673504
-[linkedin]: https://www.linkedin.com/in/vinayak-singh-21455a166/
+- Distributed ML Architectures  
+- Real-Time Streaming Systems  
+- High-Performance Data Pipelines  
+- Scalable AI Infrastructure  
 
+---
 
- 
+## 🛠 Technical Stack
 
+**Languages**  
+Java · Python · R  
+
+**Machine Learning**  
+TensorFlow · PyTorch · Scikit-learn · Keras  
+
+**Data Systems**  
+PostgreSQL · MySQL · MongoDB  
+
+**Visualization**  
+Tableau · Power BI  
+
+**Engineering & Collaboration**  
+Git · GitLab  
+
+---
+
+## 📊 GitHub Engineering Signal
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vinayakdata&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vinayakdata&hide_border=true" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinayakdata&layout=compact&hide_border=true" height="150"/>
+</p>
+
+---
+
+## 📬 Contact
+
+📱 +91 63934 00085  
+🔗 LinkedIn: https://www.linkedin.com/in/vinayak660/  
+🎓 Scholar: https://scholar.google.com/citations?hl=en&user=OuvUel8AAAAJ
