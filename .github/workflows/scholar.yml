@@ -2,7 +2,7 @@ name: Auto Update Google Scholar Stats
 
 on:
   schedule:
-    - cron: "0 2 * * *"
+    - cron: "0 2 * * *"   # Runs daily at 2 AM UTC
   workflow_dispatch:
 
 permissions:
@@ -13,7 +13,7 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout
+      - name: Checkout repository
         uses: actions/checkout@v4
 
       - name: Update Scholar Metrics
@@ -22,11 +22,14 @@ jobs:
           scholar_id: OuvUel8AAAAJ
           template: |
             <!-- SCHOLAR-METRICS-START -->
-            ## 📊 Research Metrics (Auto-Updated Daily)
+            ## 🏆 Research Runboard
 
-            - 📈 **Citations:** {{citations}}
-            - 📊 **H-Index:** {{hindex}}
-            - 📊 **i10-Index:** {{i10index}}
+            <p align="center">
+              <img src="https://img.shields.io/badge/Citations-{{citations}}-2ea44f?style=for-the-badge" />
+              <img src="https://img.shields.io/badge/H--Index-{{hindex}}-0A66C2?style=for-the-badge" />
+              <img src="https://img.shields.io/badge/i10--Index-{{i10index}}-6f42c1?style=for-the-badge" />
+            </p>
+
             <!-- SCHOLAR-METRICS-END -->
 
       - name: Commit changes
@@ -34,5 +37,5 @@ jobs:
           git config --global user.name "Vinayakdata"
           git config --global user.email "vinayakdata@users.noreply.github.com"
           git add .
-          git commit -m "Auto-update Scholar metrics" || echo "No changes"
+          git commit -m "Auto-update Scholar metrics" || echo "No changes to commit"
           git push
