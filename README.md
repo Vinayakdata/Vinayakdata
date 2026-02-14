@@ -31,15 +31,18 @@ Not just models — but measurable, deployable impact.
 
 ---
 
-<!-- SCHOLAR-METRICS-START -->
+---
+
 ## 🏆 Research Runboard
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Citations-Updating...-2ea44f?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/H--Index-Updating...-0A66C2?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/i10--Index-Updating...-6f42c1?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Citations-315-2ea44f?style=for-the-badge&logo=googlescholar" />
+  <img src="https://img.shields.io/badge/H--Index-9-0A66C2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/i10--Index-9-6f42c1?style=for-the-badge" />
 </p>
-<!-- SCHOLAR-METRICS-END -->
+
+---
+
 
 ---
 
