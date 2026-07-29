@@ -2,15 +2,13 @@
 
   <h1>⚡ Vinayak Singh</h1>
 
-  <!-- TYPING BANNER FIXED (NO OVERFLOW) -->
-  <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=700&size=24&duration=2500&pause=1000&color=7CACF8&center=true&vCenter=true&width=650&height=40&lines=Software+Engineer+(GenAI+%26+Data);Agentic+RAG+%26+AI+Systems+Architect;25%2B+Research+Papers+%C2%B7+330%2B+Citations;GAIT+Gold+Rank+(Top+0.001%25)" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=700&size=24&duration=2500&pause=1000&color=7CACF8&center=true&vCenter=true&width=650&height=40&lines=Software+Engineer+(GenAI+%26+Data)+%40+GE+HealthCare;Agentic+RAG+%26+AI+Systems+Architect;25%2B+Research+Papers+%C2%B7+330%2B+Citations;GAIT+Gold+Rank+(Top+0.001%25)" alt="Typing SVG" />
 
-  <p align="center">
+  <p>
     <strong>🤖 AI Developer & Systems Architect | 📚 Published ML Author | ⚡ Distributed Systems Builder</strong>
   </p>
 
-  <!-- COLOURFUL BADGES BAR -->
-  <p align="center">
+  <p>
     <a href="https://vinayakdata.github.io">
       <img src="https://img.shields.io/badge/🌐_Interactive_Portfolio-vinayakdata.github.io-00C853?style=for-the-badge&logo=googlechrome&logoColor=white" />
     </a>
@@ -32,12 +30,24 @@
     </a>
   </p>
 
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=vinayakdata&style=for-the-badge&color=7cacf8&label=PROFILE+VIEWS" />
+    &nbsp;
+    <a href="https://github.com/vinayakdata?tab=followers">
+      <img src="https://img.shields.io/github/followers/vinayakdata?style=for-the-badge&color=00C853&logo=github&label=Followers" />
+    </a>
+    &nbsp;
+    <a href="https://github.com/vinayakdata?tab=repositories">
+      <img src="https://img.shields.io/badge/Open_Source-Public_Repos-FF6D00?style=for-the-badge&logo=github&logoColor=white" />
+    </a>
+  </p>
+
 </div>
 
 ---
 
 ### 📌 Navigation
-[⚡ Executive Overview](#-executive-overview) • [🧠 Featured AI Systems](#-featured-ai-systems--architectures) • [🏆 Research Runboard](#-research--academic-runboard) • [🛠️ Tech Stack](#%EF%B8%8F-technical-playground) • [🎓 Honors](#-honors--credentials) • [📊 GitHub Signal](#-github-engineering-signal) • [📬 Connect](#-connect--collaborate)
+[⚡ About](#-executive-overview) • [🔬 Building](#-currently-building) • [🧠 AI Systems](#-featured-ai-systems--architectures) • [🏆 Research](#-research--academic-runboard) • [🎓 Honors](#-honors--credentials) • [🛠️ Stack](#%EF%B8%8F-technical-playground) • [📈 Activity](#-contribution-activity) • [📬 Connect](#-connect--collaborate)
 
 ---
 
@@ -46,28 +56,62 @@
 ```python
 class VinayakSingh:
     def __init__(self):
-        self.identity = "AI Systems Engineer & Research-Driven ML Architect"
-        self.education = "B.Tech in IT (KIIT University) — 9.03 / 10 CGPA (First Class Distinction)"
-        self.certifications = ["AWS Certified Cloud Practitioner", "GAIT Gold Rank (Top 0.001%)"]
-        self.research_metrics = {
+        self.role = "Software Engineer (GenAI & Data Platforms)"
+        self.experience = "GE HealthCare (~3 Yrs) · Siemens Advanta · Glosity"
+        self.education = "B.Tech in IT (KIIT University) — 9.03 / 10 CGPA"
+        self.certifications = [
+            "AWS Certified Cloud Practitioner",
+            "GAIT Gold Rank (Top 0.001%)"
+        ]
+        self.research = {
             "publications": "25+ Peer-Reviewed Papers",
-            "citations": "330+ Citations",
+            "citations": "330+",
             "h_index": 10,
             "i10_index": 10
         }
-        self.core_passions = [
+        self.core_domains = [
             "Spec-Driven Agentic AI",
             "Multi-Agent RAG Orchestration",
-            "PGVector & HNSW Vector Indexing",
-            "Computer Vision Medical Imaging",
-            "Spark/Scala Distributed ETL Pipelines"
+            "PGVector & HNSW Vector Search",
+            "Computer Vision & Medical Imaging",
+            "Spark/Scala Distributed ETL",
+            "Edge AI & Real-Time Inference"
         ]
 
     def current_mission(self):
-        return "Building production-grade AI platforms that scale under real-world engineering constraints!"
+        return "Architecting autonomous AI systems that reason, build, test, and ship software independently!"
 
-print(VinayakSingh().current_mission())
+me = VinayakSingh()
+print(me.current_mission())
 ```
+
+---
+
+### 🔬 Currently Building
+
+<table>
+  <tr>
+    <td width="80" align="center">🏍️</td>
+    <td>
+      <strong>🔒 Stealth Mode — Moto Industry AI Platform</strong><br>
+      Building a product that will fundamentally change how the motorcycle industry operates. Leveraging <strong>real-time sensor intelligence</strong>, <strong>predictive analytics</strong>, and <strong>edge AI</strong>. More details dropping soon — <em>stay tuned</em>. 👀
+    </td>
+  </tr>
+  <tr>
+    <td align="center">🤖</td>
+    <td>
+      <strong>Multi-Modal Agentic AI Pipelines</strong><br>
+      Exploring autonomous agents that reason across <strong>text, vision, and structured data</strong> using tool-calling LLMs and MCP protocols.
+    </td>
+  </tr>
+  <tr>
+    <td align="center">📡</td>
+    <td>
+      <strong>Real-Time Streaming AI at Edge</strong><br>
+      Experimenting with <strong>on-device inference</strong>, <strong>ONNX Runtime</strong>, and <strong>TensorRT</strong> for sub-100ms prediction pipelines on embedded hardware.
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -128,7 +172,7 @@ print(VinayakSingh().current_mission())
 
 - 🏅 **GAIT JTP Gold Certification:** Ranked in the **Top 0.001% candidate pool nationwide**.
 - ☁️ **AWS Certified Cloud Practitioner:** Certified with a score of **770+**.
-- 🎓 **KIIT University:** B.Tech in Information Technology (**9.03 / 10 CGPA** - First Class with Distinction).
+- 🎓 **KIIT University:** B.Tech in Information Technology (**9.03 / 10 CGPA** — First Class with Distinction).
 - 🏆 **Hackathon Finalist:** Selected as Finalist (Top 8 out of 40+ engineering teams) for AI quality automation.
 
 ---
@@ -176,11 +220,12 @@ print(VinayakSingh().current_mission())
       <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
       <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
       <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-      <img src="https://img.shields.io/badge/CNNs-00C853?style=for-the-badge"/>
+      <img src="https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=onnx&logoColor=white"/>
+      <img src="https://img.shields.io/badge/TensorRT-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
     </td>
   </tr>
   <tr>
-    <td><strong>Data & Cloud Scale</strong></td>
+    <td><strong>Data & Cloud</strong></td>
     <td>
       <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
       <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white"/>
@@ -195,31 +240,38 @@ print(VinayakSingh().current_mission())
 
 ---
 
-### 📊 GitHub Engineering Signal
+### 📈 Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vinayakdata&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" height="175"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vinayakdata&theme=tokyonight&hide_border=true" height="175"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinayakdata&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vinayakdata&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
 </div>
 
 ---
 
-### 💬 AI Engineering Mindset
+### 💬 Philosophy
 
-> *"The future of software engineering isn't just writing code — it's designing autonomous reasoning systems that construct, verify, and scale software deterministically under real-world constraints."*
+> *"I don't just train models — I architect systems where AI reasons, codes, tests, and ships autonomously. The best engineer is the one who makes themselves obsolete."*
+>
+> — Vinayak Singh
+
+---
+
+### 🎵 Fun Facts
+
+- ☕ **Fuel:** Dark roast espresso + Dark mode IDE = Maximum throughput
+- 🏍️ **Passion:** Motorcycles, road trips, and building things that move fast
+- 📖 **Reading:** Research papers on Agentic AI, Reasoning LLMs & Edge Computing
+- 🎯 **Life Motto:** *Ship fast, learn faster, scale everything*
+- 🌙 **Peak Hours:** Most productive between 11 PM — 3 AM (night owl engineer 🦉)
 
 ---
 
 ### 📬 Connect & Collaborate
 
-- 🌐 **Interactive AI Portfolio:** [vinayakdata.github.io](https://vinayakdata.github.io)  
-- 💼 **LinkedIn:** [linkedin.com/in/vinayak660](https://www.linkedin.com/in/vinayak660/)  
-- 🎓 **Google Scholar:** [Scholar Profile (330+ Citations)](https://scholar.google.com/citations?hl=en&user=OuvUel8AAAAJ)  
-- 📧 **Email:** [codewithsooryavanshi@gmail.com](mailto:codewithsooryavanshi@gmail.com)  
+- 🌐 **Interactive AI Portfolio:** [vinayakdata.github.io](https://vinayakdata.github.io)
+- 💼 **LinkedIn:** [linkedin.com/in/vinayak660](https://www.linkedin.com/in/vinayak660/)
+- 🎓 **Google Scholar:** [Scholar Profile (330+ Citations)](https://scholar.google.com/citations?hl=en&user=OuvUel8AAAAJ)
+- 📧 **Email:** [codewithsooryavanshi@gmail.com](mailto:codewithsooryavanshi@gmail.com)
 
 <div align="center">
   <br>
